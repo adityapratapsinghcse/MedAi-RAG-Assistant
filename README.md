@@ -189,19 +189,13 @@ Depending on how your structure is organized. Because software engineers cannot 
 
 ## Home Page
 
-![Home](screenshots/home.png)
-
----
-
-## Medical Query Interface
-
-![Interface](screenshots/interface.png)
+![Home](Screenshots/Homepage_UI.jpg)
 
 ---
 
 ## AI Generated Response
 
-![Response](screenshots/response.png)
+![Interface](Screenshots/Result.jpg)
 
 ---
 
